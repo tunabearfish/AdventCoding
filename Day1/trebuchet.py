@@ -1,4 +1,4 @@
-file = 'input.txt'
+file = 'Day1\input.txt'
 
 try:
     with open(file, 'r') as f:
